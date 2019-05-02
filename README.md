@@ -9,3 +9,7 @@ A vídeo is beeing made by me to show how to build, program and use the chronogr
 
 
 Thingverse link: https://www.thingiverse.com/thing:3603651
+
+
+Donations are appreciated: 
+    - Paypal username: rodrigofelipew@hotmail.com
