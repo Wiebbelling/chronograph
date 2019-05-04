@@ -8,8 +8,12 @@ More instructions will be avaliable soon, as well as part list and STL files for
 A vídeo is beeing made by me to show how to build, program and use the chronograph with the Android app.
 
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+
 Thingverse link: https://www.thingiverse.com/thing:3603651
 
 
 Donations are appreciated: 
     - Paypal username: rodrigofelipew@hotmail.com
+
